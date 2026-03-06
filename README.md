@@ -17,7 +17,7 @@ Mein Weg durch die IT gleicht einer Zeitreise durch Betriebssysteme und Sprachen
 
 Ich bevorzuge sauberen, klar **strukturierten Code!**
 
-Mein Alptraum: Caotischer **Spagettie-Code**
+Mein Alptraum: Caotischer **Spagetti-Code**
 
 <!--
 **flo-16/flo-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
